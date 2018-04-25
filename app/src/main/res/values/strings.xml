@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo Toast</string>
+    <string name="cuidado_click">Cuidado, click</string>
+    <string name="todo">TODO</string>
+</resources>
